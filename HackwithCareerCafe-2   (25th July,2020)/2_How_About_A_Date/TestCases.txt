@@ -1,0 +1,21 @@
+5 22  (Input)
+142   (Output)
+
+11
+9   (Inputs)
+313 (Output)
+
+13
+23
+Not Valid
+
+2
+30
+Not Valid
+
+12
+31
+365
+
+
+
